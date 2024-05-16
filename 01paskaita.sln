@@ -21,11 +21,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis04", "Uzduotis4\Uzd
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis05", "Uzduotis5\Uzduotis05.csproj", "{139095E6-389A-461F-A25D-4422A2DABF74}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4A472251-8344-4815-8490-5CBDC5E3AF81}"
-	ProjectSection(SolutionItems) = preProject
-		Uzduotis6\Uzduotis06.csproj = Uzduotis6\Uzduotis06.csproj
-	EndProjectSection
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis06", "Uzduotis6\Uzduotis06.csproj", "{02629268-2DD5-4C7D-BCE6-67B9E6BA52B1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uzduotis07", "Uzduotis7\Uzduotis07.csproj", "{6423DBDB-C56B-4ED0-84C6-7A42588D6EB4}"
