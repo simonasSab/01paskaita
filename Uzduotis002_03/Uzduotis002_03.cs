@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-namespace PirmaPaskaita
+namespace Paskaita01
 {
     public class Uzduotis002_03
     {
